@@ -1,0 +1,6 @@
+import:turtle
+s=turtle.Turtle()
+for i in range(120):
+s.forward(140)
+s.right(120)
+s.right(1)
